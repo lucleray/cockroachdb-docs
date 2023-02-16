@@ -12,6 +12,7 @@ _site
 bootstrap
 vendor/
 Gemfile.lock
+!Gemfile.lock.build
 tmp/
 node_modules
 .vscode
